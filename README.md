@@ -1,0 +1,1 @@
+This contain information about teh installtion of the application
